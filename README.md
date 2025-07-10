@@ -36,7 +36,7 @@ A detailed exploratory data analysis (EDA) was conducted on the scraped dataset 
 💰 Average Price by Rating: Slight increase in average price for higher-rated books.
 
 You can view the full notebook here:
-notebooks/books_analysis.ipynb
+[notebooks/books_analysis.ipynb]()
 
 ## 🗂️ Output
 
