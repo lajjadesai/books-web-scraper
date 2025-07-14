@@ -4,6 +4,8 @@
 
 ![PythonAnywhere](https://img.shields.io/badge/Hosted-PythonAnywhere-blue)
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/lajjadesai/books-web-scraper/scrape.yml?branch=main&label=GitHub%20Actions&logo=github)
+
 This Python web scraper extracts book data from [books.toscrape.com](http://books.toscrape.com), including:
 
 - Title
