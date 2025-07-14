@@ -1,5 +1,9 @@
 # 📚 Books to Scrape - Web Scraper
 
+![Automation](https://img.shields.io/badge/Automated-Windows%20Task%20Scheduler-blue)
+
+![PythonAnywhere](https://img.shields.io/badge/Hosted-PythonAnywhere-blue)
+
 This Python web scraper extracts book data from [books.toscrape.com](http://books.toscrape.com), including:
 
 - Title
@@ -23,7 +27,7 @@ The scraper automatically navigates all pages and saves the data to `data/books.
    `pip install -r requirements.txt`
 3. Run the scraper  
    `python scraper.py`
-   
+
 ## 📊 Data Analysis & Visualizations
 A detailed exploratory data analysis (EDA) was conducted on the scraped dataset using pandas, matplotlib, and seaborn. The notebook includes:
 
@@ -36,7 +40,7 @@ A detailed exploratory data analysis (EDA) was conducted on the scraped dataset 
 💰 Average Price by Rating: Slight increase in average price for higher-rated books.
 
 You can view the full notebook here:
-[notebooks/books_analysis.ipynb](https://github.com/lajjadesai/books-web-scraper/blob/main/notebooks/books_analysis.ipynb)
+[notebooks/books_analysis.ipynb]([notebooks/books_analysis.ipynb])
 
 ## 🗂️ Output
 
